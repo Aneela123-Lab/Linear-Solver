@@ -128,7 +128,8 @@ This project explains how the answer is formed step-by-step, making it ideal for
 - Voice input system
 - 
 ## 👩‍💻 Developer
-Aneela
+Aneela and their Team
+       
 IT Student | Python & AI Enthusiast
 
 ## 📌 License
