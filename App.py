@@ -1035,5 +1035,5 @@ st.sidebar.download_button(
 st.sidebar.markdown("---")
 st.sidebar.markdown("### 🔧 Developer Tools")
 st.sidebar.markdown("""
-- **View Code on GitHub:** [Repo Link](https://github.com/yourusername/linear-solver)
+- **View Code on GitHub:** [Repo Link]((https://github.com/Aneela123-Lab/Linear-Solver)
 """)
