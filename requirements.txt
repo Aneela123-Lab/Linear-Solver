@@ -3,4 +3,3 @@ numpy
 matplotlib
 pyttsx3
 reportlab
-getSampleStyleSheet
